@@ -3,7 +3,8 @@
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Signal_Blue_Icon.png/100px-Signal_Blue_Icon.png)](http://https://signal.org/)[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/400px-Docker_%28container_engine%29_logo.svg.png)](http://https://docker.org/)
 
 
-Thi is a silmple container with Signal safe comunicator 
+Thi is a silmple container with Signal  comunicator 
+At the moment works only on X11 .
 
 
 # How to install!
