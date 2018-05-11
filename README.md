@@ -3,11 +3,8 @@
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Signal_Blue_Icon.png/100px-Signal_Blue_Icon.png)](http://https://signal.org/)[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/400px-Docker_%28container_engine%29_logo.svg.png)](http://https://docker.org/)
 
 
-Thi is a silmple container with Signal save comunicator 
+Thi is a silmple container with Signal safe comunicator 
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 # How to install!
 ```sh
