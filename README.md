@@ -24,7 +24,7 @@ docker run -ti --rm \
 ```
 
 # Problems 
-if you have problem with selinux, some times can help this procedure 
+if you have problem with selinux, some times can help this  temporray procedure ( do not works this paramameter --security-opt label=type:container_runtime_t ) 
 ```sh
 sudo chcon -Rt svirt_sandbox_file_t  /tmp/.X11-unix/X0
 sudo chcon -Rt svirt_sandbox_file_t  /tmp/.X11-unix
